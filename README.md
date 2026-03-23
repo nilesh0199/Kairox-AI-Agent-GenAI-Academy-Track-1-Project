@@ -26,8 +26,9 @@ It helps users explore career paths and provides structured, month-wise learning
 ```bash
 python -m google.adk.cli web agents
 
+---
 
-🧪 Test with curl
+## Test with curl
 
 Step 1: Create session
 
