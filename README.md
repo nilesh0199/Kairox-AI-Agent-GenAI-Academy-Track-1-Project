@@ -1,7 +1,6 @@
 # Kairox AI Agent 🚀
 
-Kairox AI Agent is a career guidance assistant built using Google ADK and Gemini.  
-It helps users explore career paths and provides structured, month-wise learning roadmaps.
+Kairox AI Agent is a career guidance assistant focused on generating structured, month-wise learning roadmaps using Google ADK and Gemini.
 
 ---
 
